@@ -9,8 +9,14 @@
 #import <UIKit/UIKit.h>
 
 @interface SCRDrawView : UIView
+@property (nonatomic) NSMutableArray * scribbles;
+//@property (nonatomic) NSMutableArray *scribblePoints;
 
-@property(nonatomic) NSMutableArray *scribblePoints;
+@property (nonatomic) NSMutableDictionary * currentScribble;
+
 @property (nonatomic) UIColor * lineColor;
+@property (nonatomic) int lineWidth;
+@property (nonatomic) BOOL drawStyleScribble;
+
 
 @end
