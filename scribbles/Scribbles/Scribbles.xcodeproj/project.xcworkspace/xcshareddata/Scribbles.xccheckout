@@ -10,29 +10,29 @@
 	<string>Scribbles</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>41CDBC56-3C30-4A77-9C89-2F8C14AB74E9</key>
+		<key>FDE0365D7361DC74B50DBA75B02F031603E602B5</key>
 		<string>https://github.com/mertid/Scribbles.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>scribbles/Scribbles/Scribbles.xcodeproj/project.xcworkspace</string>
+	<string>scribbles/Scribbles/Scribbles.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>41CDBC56-3C30-4A77-9C89-2F8C14AB74E9</key>
+		<key>FDE0365D7361DC74B50DBA75B02F031603E602B5</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/mertid/Scribbles.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>41CDBC56-3C30-4A77-9C89-2F8C14AB74E9</string>
+	<string>FDE0365D7361DC74B50DBA75B02F031603E602B5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>41CDBC56-3C30-4A77-9C89-2F8C14AB74E9</string>
+			<string>FDE0365D7361DC74B50DBA75B02F031603E602B5</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Scribbles</string>
 		</dict>
